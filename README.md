@@ -23,16 +23,18 @@ Building practical AI solutions with Python, machine learning, and modern softwa
 
 ---
 
-## 👋 About Me
 
-I'm **JAIDEEP D.**, an aspiring AI Engineer passionate about building intelligent applications and solving real-world problems through technology.
+## About Me
 
-- 🤖 Interested in Artificial Intelligence, Machine Learning, and Deep Learning.
-- 🐍 Developing solutions with Python and data science tools.
-- 🌐 Exploring full-stack development and AI application integration.
-- 🧠 Interested in speech emotion recognition, intelligent matching systems, and applied AI.
-- 🎯 Currently seeking opportunities to grow as an AI Engineer and contribute to impactful projects.
-- 📚 Committed to continuous learning, clean code, and practical implementation.
+I'm **JAIDEEP D.**, an AI Engineer focused on developing intelligent applications and solving real-world problems through Artificial Intelligence and Machine Learning.
+
+- AI and Machine Learning: Model development, data analysis, and applied AI.
+- Programming: Python, Java, C++, and JavaScript.
+- Application Development: Building AI-powered applications and integrating machine learning models into software systems.
+- Technical Interests: Deep Learning, Speech Emotion Recognition, and intelligent matching systems.
+- Career Objective: Seeking AI Engineer opportunities to contribute to innovative projects and build impactful technology.
+- Professional Growth: Committed to continuous learning, clean code, and practical problem-solving.
+
 
 ---
 
