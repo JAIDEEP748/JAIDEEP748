@@ -6,7 +6,7 @@ Customize the contact links and project repositories before publishing.
 
 <div align="center">
 
-# JAIDEEP D.
+# JAIDEEP D
 
 ### AI Engineer | Machine Learning | Intelligent Applications
 
