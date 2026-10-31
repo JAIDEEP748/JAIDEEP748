@@ -38,7 +38,7 @@ I'm **JAIDEEP D.**, an AI Engineer focused on developing intelligent application
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -68,7 +68,7 @@ I'm **JAIDEEP D.**, an AI Engineer focused on developing intelligent application
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 1. Speech Emotion Recognition
 Exploring machine learning techniques for classifying emotions from speech signals.
@@ -103,7 +103,7 @@ A full-stack e-commerce application concept for pet products and services.
 
 ---
 
-## 🎯 Current Goals
+##  Current Goals
 
 - Strengthen machine learning and deep learning fundamentals.
 - Build and document end-to-end AI projects.
